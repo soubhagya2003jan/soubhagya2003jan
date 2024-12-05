@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <!--
 **soubhagya2003jan/soubhagya2003jan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
