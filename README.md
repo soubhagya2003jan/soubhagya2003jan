@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagya2003jan&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagya2003jan" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis Projects**
-
-- 🌱 I’m currently learning **Python Data Analysis Libraries**
-
 - 👨‍💻 All of my projects are available at [https://github.com/soubhagya2003jan](https://github.com/soubhagya2003jan)
-
-- 💬 Ask me about **Python, SQL, Power BI, Tableau**
 
 - 📫 How to reach me **soubhagyaswain141@gmail.com**
 
