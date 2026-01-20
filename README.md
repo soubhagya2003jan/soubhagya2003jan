@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soubhagya Swain</h1>
-<h3 align="center">Motivated and meticulous aspiring analyst with a passion for leveraging analytical skills and teamwork to generate meaningful insights and drive impactful solutions.</h3>
+<h3 align="center">Messing around with data, learning in public, and contributing to open-source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagya2003jan&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagya2003jan" /> </p>
 
