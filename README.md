@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Soubhagya</h1>
-  <p><strong>System minded developer</strong></p>
+  <p><strong>System oriented developer</strong></p>
   <p>
     Into data, low level programming, and building software. I also do web dev sometimes.
   </p>
